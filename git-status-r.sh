@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # Get status of all git repositories recursively.
 
 YELLOW=`tput setaf 3`
